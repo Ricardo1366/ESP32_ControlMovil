@@ -1,4 +1,4 @@
-#Maneja Arduino desde el móvil.
+# Maneja Arduino desde el móvil.
 
 Código de ejemplo para instalar en un ESP32 que le permite recibir datos vía blurtooth desde un móvil. En el ejemplo se esperan un máximo de 4 parámetros donde cada parámetro es interpretado de la siguiente forma:
 
